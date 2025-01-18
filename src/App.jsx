@@ -8,20 +8,19 @@ import Weather from './components/Weather_sec/weather'
 function App() {
 
   return (
-    <> 
-    {/* <div className="block">
+    <>
+      {/* <div className="block">
         <Header/>
     </div> */}
       <div className="">
-      <Weather/>
-     </div>
-    
-     
+        <Weather />
+      </div>
+
       {/* <br />
       <br />
       <br />
       <br /> */}
-     
+
     </>
   )
 }

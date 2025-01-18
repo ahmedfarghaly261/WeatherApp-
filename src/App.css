@@ -1,0 +1,6 @@
+body{
+    background-image: url('/sunny-sky-background_1053-494.jpg');
+    background-size: cover; /* Ensures the image covers the entire viewport */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center; /* Centers the image */
+}

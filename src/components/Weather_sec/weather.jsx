@@ -138,8 +138,7 @@ const date=new Date();
         <> 
         <div className="container mx-auto px-8  ">
             <div className=" w-full h-screen flex flex-col  items-center justify-center ">
-                {/* loading */}
-                {/* <div className="text-6xl text-yellow-500">{icons}</div> */}
+            
 
                 {errorMsg&&  <div role="alert" data-aos='fade-down' class="rounded border-s-4 border-red-500 bg-red-50 p-4">
                     <div class="flex items-center gap-2 text-red-800 w-[400px]">
@@ -256,17 +255,9 @@ const date=new Date();
                     </div>
                     )
                     }
-                   
-                            {/* top */}
-                       
-                        
 
                 </div>
-                    
-          
-                {/* error state */}
-
-                {/* card`` */}
+                
             </div>
         </div>
         </>

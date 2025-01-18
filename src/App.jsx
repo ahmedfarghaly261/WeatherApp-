@@ -16,10 +16,7 @@ function App() {
         <Weather />
       </div>
 
-      {/* <br />
-      <br />
-      <br />
-      <br /> */}
+  
 
     </>
   )
